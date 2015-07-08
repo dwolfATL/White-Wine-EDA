@@ -20,6 +20,17 @@ library(memisc)
 wines <- read.csv('C:\\Users\\DWolf\\Documents\\R\\wineQualityWhites.csv')
 ```
 
+This project is my first foray into Exploratory Data Analysis using R. 
+The project includes my thought process as I characterize a set of white wine 
+data by exploring the relationships between features and the subjective 
+"Quality" rating.
+
+The format includes Univariate, Bivariate, and Multivariate analyses with a 
+final summary and reflection at the end. The original dataset is available here:
+
+> http://www3.dsi.uminho.pt/pcortez/wine/
+
+
 # Univariate Plots Section
 
 I want to take a look at the dimensions, field names, data types, 
